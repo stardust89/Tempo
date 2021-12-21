@@ -12,4 +12,6 @@ public class Team {
         this.resources = resources;
         this.technicalExpertise = technicalExpertise;
     }
+
+
 }
