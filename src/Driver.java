@@ -6,7 +6,12 @@ public class Driver {
     int overtaking;
     int consistency;
 
-    public Driver(String name, String nationality, int braking, int cornering, int overtaking, int consistency) {
+    public Driver(String name,
+                  String nationality,
+                  int braking,
+                  int cornering,
+                  int overtaking,
+                  int consistency) {
         this.name = name;
         this.nationality = nationality;
         this.braking = braking;
